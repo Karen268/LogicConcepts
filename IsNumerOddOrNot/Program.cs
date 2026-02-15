@@ -24,7 +24,7 @@ do
     {
         Console.WriteLine($"Lo que ingresaste: {numberString}, no es un número entero. ");
     }
-} while (numberString!.ToLower() != "Salir");
+} while (numberString!.ToLower() != "salir");
 Console.WriteLine("Gracias.");
 
 
