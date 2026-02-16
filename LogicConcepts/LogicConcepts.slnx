@@ -20,6 +20,9 @@
   <Folder Name="/07/">
     <Project Path="Discounts/Discounts.csproj" Id="fa52a21c-ecc1-41b1-8e2e-c740bc6b7cd5" />
   </Folder>
+  <Folder Name="/08/">
+    <Project Path="Subsidies/Subsidies.csproj" Id="bc005ee3-e149-4f61-941f-a830207dd35e" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="0d724397-9946-4eac-99ff-b3668c520308" />
   </Folder>
