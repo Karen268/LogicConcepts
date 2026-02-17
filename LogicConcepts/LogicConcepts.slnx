@@ -32,6 +32,9 @@
   <Folder Name="/11/">
     <Project Path="Transport/Transport.csproj" Id="d88fbcc0-91fe-45b1-9df5-e22eccd0baa7" />
   </Folder>
+  <Folder Name="/12/">
+    <Project Path="SumAndAverage/SumAndAverage.csproj" Id="d36118c0-3438-40e4-99a3-da1c4b50030e" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="0d724397-9946-4eac-99ff-b3668c520308" />
   </Folder>
