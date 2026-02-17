@@ -56,6 +56,7 @@
             var text = Console.ReadLine();
             return text;
         }
+        
 
         public static string? GetValidOptions(string message, List<string> options)
         {
@@ -68,5 +69,9 @@
             return null;
         }
 
+        public static List<string> GetValidOptions(string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
