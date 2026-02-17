@@ -6,7 +6,7 @@ var options = new List<string> { "s", "n" };
 
 do
 {
-    var n = ConsoleExtension.GetInt("Ingrese número");
+    var n = ConsoleExtension.GetInt("Ingrese número: ");
     var factorial = MyMath.Factorial(n);
     Console.WriteLine($"{n}! = {factorial:N0}");
 
