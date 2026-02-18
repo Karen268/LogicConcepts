@@ -30,14 +30,14 @@
         {
             Console.Write(message);
             var numberString = Console.ReadLine();
-            if (double.TryParse(numberString, out double numberDouble))
+            if (double.TryParse(numberString, out double numberFloat))
             {
-                return numberDouble;
+                return numberFloat;
             }
 
             return 0;
         }
-
+      
         public static decimal GetDecimal(string message)
         {
             Console.Write(message);
