@@ -44,6 +44,9 @@
   <Folder Name="/15/">
     <Project Path="TaylorModified/TaylorModified.csproj" Id="13431719-2915-4b4d-96cf-4b957c4bf37f" />
   </Folder>
+  <Folder Name="/16/">
+    <Project Path="Equations/Equations.csproj" Id="a467696a-fe4d-464b-b1b7-08dd8da974e0" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="0d724397-9946-4eac-99ff-b3668c520308" />
   </Folder>
